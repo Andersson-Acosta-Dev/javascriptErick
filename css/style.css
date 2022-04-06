@@ -1,0 +1,127 @@
+body{
+    background: url(../img/58914.jpg);
+    text-align: center;
+    margin-top: 100px;
+}
+
+h1{
+    color: #000000;
+    font-size: 60px;
+}
+h1 {
+    color: #000000;
+    font-size: 60px;
+}
+
+p{
+    color: #000000;
+    font-size: 25px;
+}
+h1{
+    color: #000000;
+    font-size: 60px;
+}
+
+p{
+    color: #000000;
+    font-size: 25px;
+}
+
+h1{
+    color: #000000;
+    font-size: 60px;
+}
+
+h1{
+    color: #000000;
+    font-size: 60px;
+}
+
+h1{
+    color: #000000;
+    font-size: 60px;
+}
+p{
+    color: #000000;
+    font-size: 60px;
+}
+
+button {
+    margin: 50px;
+    padding: 12px 40px;
+    background: transparent;
+    border: 3px solid #ffffff;;
+    border-radius: 50px;
+    transition: 0.3s;
+}
+
+#btnSuma:hover{
+    background: rgb(236, 229, 234);
+    cursor: pointer;
+    
+}
+
+#btnResta:hover{
+    background: rgb(247, 245, 246); 
+    cursor: pointer;
+}
+
+#btnMultiplicación:hover{
+    background:rgb(240, 234, 237);
+    cursor: pointer;
+}
+
+#btndDivisión:hover{
+    background:rgb(243, 238, 241);
+    cursor: pointer;
+}
+
+#btnMayor2:hover{
+    background:rgb(252, 251, 251);
+    cursor: pointer;
+}
+
+#btnMayor3:hover{
+    background:rgb(252, 250, 251);
+    cursor: pointer;
+}
+
+#btnPar:hover{
+    background:rgb(247, 242, 245);
+    cursor: pointer;
+}
+
+#btnCuadrado:hover{
+    background:rgb(243, 237, 241);
+    cursor: pointer;
+}
+
+#btnTriángulo:hover{
+    background:rgb(241, 239, 241);
+    cursor: pointer;
+}
+
+#btnCentimetros:hover{
+    background:rgb(253, 253, 253);
+    cursor: pointer;
+}
+
+#btnAño:hover{
+    background:rgb(240, 236, 238);
+    cursor: pointer;
+}
+
+#btnGanancia:hover{
+    background:rgb(243, 240, 242);
+    cursor: pointer;
+}
+
+#btnPromedio:hover{
+    background:rgb(250, 245, 248);
+    cursor: pointer;
+}
+
+#btnDescuento:hover{
+    background:rgb(238, 233, 236);
+    cursor: pointer;
+}
